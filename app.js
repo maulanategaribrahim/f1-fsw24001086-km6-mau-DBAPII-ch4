@@ -37,7 +37,7 @@ app.use(express.static(`${__dirname}/public`));
 app.set("views", `${__dirname}/views`);
 app.set("view engine", "ejs");
 
-app.use("/api/v1/", carRouter);
+app.use("/api/v1/car", carRouter);
 app.use("/dashboard", adminRouter);
 
 module.exports = app;
