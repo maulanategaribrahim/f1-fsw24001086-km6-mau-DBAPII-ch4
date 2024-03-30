@@ -4,7 +4,10 @@
 ini merupakan database diagram dari challenge Gold chapter 4 Car Management Dashboard :
 ## Table Diagram
 
-![Database](./public/images/Database.png)
+<!-- ![Database](./public/images/Database.png) -->
+<h1 align="center">
+  <img src="./public/images/Database.png" alt="Diagram" width="300"/>
+</h1>
 
 ### 2. Port
 ### jalan diport localhost:3000/
